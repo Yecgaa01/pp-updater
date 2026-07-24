@@ -159,6 +159,7 @@
       ],
       "dlc": [
         {
+          "source": "psnp",
           "label": "Ancient Labyrinth",
           "psnp": "8322-lords-of-the-fallen-ancient-labyrinth-dlc-trophy-guide"
         }
@@ -180,6 +181,7 @@
       ],
       "dlc": [
         {
+          "source": "psnp",
           "label": "Master of Fate",
           "url": "https://psnprofiles.com/guide/24277-lords-of-the-fallen-master-of-fate-dlc-trophy-guide"
         }
@@ -540,4 +542,3 @@
     }
   }
 }
-
