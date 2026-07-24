@@ -1,1 +1,543 @@
+{
+  "games": {
+    "2515020": {
+      "pp": {
+        "label": "Final Fantasy XVI",
+        "slug": "final-fantasy-16-xvi-trophy-guide-roadmap"
+      }
+    },
+    "1716740": {
+      "pp": {
+        "label": "Final Fantasy XVI",
+        "slug": "final-fantasy-16-xvi-trophy-guide-roadmap"
+      }
+    },
+    "1173770": {
+      "pp": false,
+      "pst": {
+        "label": "Final Fantasy",
+        "slug": "final-fantasy-1-pixel-remaster"
+      }
+    },
+    "250900": {
+      "pp": false,
+      "pst": {
+        "label": "The Binding of Isaac: Rebirth",
+        "slug": "binding-of-isaac-na"
+      }
+    },
+    "570940": {
+      "pp": false,
+      "pst": {
+        "label": "Dark Souls Remastered",
+        "slug": "dark-souls-remastered-ps4"
+      }
+    },
+    "359870": {
+      "pp": false,
+      "pst": [
+        {
+          "label": "Final Fantasy X HD",
+          "slug": "final-fantasy-x-hd"
+        },
+        {
+          "label": "Final Fantasy X-2 HD",
+          "slug": "final-fantasy-x-2-hd-ps3-vita"
+        }
+      ]
+    },
+    "731490": {
+      "pp": false,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "Bandicoot",
+          "slug": "crash-bandicoot-n-sane-trilogy"
+        },
+        {
+          "source": "pst",
+          "label": "Cortex Strikes Back",
+          "slug": "crash-bandicoot-2"
+        },
+        {
+          "source": "pst",
+          "label": "Warped",
+          "slug": "crash-bandicoot-warped"
+        },
+        {
+          "source": "psnp",
+          "label": "Bandicoot",
+          "slug": "6185-crash-bandicoot-trophy-guide"
+        },
+        {
+          "source": "psnp",
+          "label": "Cortex Strikes Back",
+          "slug": "6199-crash-bandicoot-2-cortex-strikes-back-trophy-guide"
+        },
+        {
+          "source": "psnp",
+          "label": "Warped",
+          "slug": "6247-crash-bandicoot-warped-trophy-guide"
+        }
+      ]
+    },
+    "2478970": {
+      "pp": false,
+      "psnp": [
+        {
+          "label": "Tomb Raider I",
+          "slug": "18819-tomb-raider-i-trophy-guide"
+        },
+        {
+          "label": "Tomb Raider II",
+          "slug": "18830-tomb-raider-ii-trophy-guide"
+        },
+        {
+          "label": "Tomb Raider III",
+          "slug": "18948-tomb-raider-iii-trophy-guide"
+        }
+      ],
+      "dlc": [
+        {
+          "label": "Tomb Raider: Custom Mission",
+          "url": "https://psnprofiles.com/guide/25130-tomb-raider-i-iii-remastered-tomb-raider-cm-dlc-trophy-guide"
+        }
+      ]
+    },
+    "2525380": {
+      "pp": false,
+      "psnp": [
+        {
+          "label": "Tomb Raider: The Last Revelation",
+          "slug": "21603-tomb-raider-the-last-revelation-trophy-guide"
+        },
+        {
+          "label": "Tomb Raider: Chronicles",
+          "slug": "21597-tomb-raider-chronicles-trophy-guide"
+        },
+        {
+          "label": "Tomb Raider: The Angel of Darkness",
+          "slug": "22079-tomb-raider-the-angel-of-darkness-trophy-guide"
+        }
+      ]
+    },
+    "1091500": {
+      "dlc": [
+        {
+          "label": "Phantom Liberty",
+          "pp": "cyberpunk-2077-phantom-liberty-dlc-trophy-guide-roadmap"
+        }
+      ]
+    },
+    "1282100": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Remnant II",
+          "slug": "remnant-2-trophy-guide-roadmap"
+        },
+        {
+          "source": "psnp",
+          "label": "Remnant II",
+          "slug": "19880-remnant-ii-trophy-guide"
+        }
+      ]
+    },
+    "265300": {
+      "noAutoDlc": true,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "Lords of the Fallen",
+          "slug": "lords-of-the-fallen"
+        },
+        {
+          "source": "psnp",
+          "label": "Lords of the Fallen",
+          "slug": "8292-lords-of-the-fallen-trophy-guide"
+        }
+      ],
+      "dlc": [
+        {
+          "label": "Ancient Labyrinth",
+          "psnp": "8322-lords-of-the-fallen-ancient-labyrinth-dlc-trophy-guide"
+        }
+      ]
+    },
+    "1501750": {
+      "noAutoDlc": true,
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Lords of the Fallen",
+          "url": "https://www.powerpyx.com/lords-of-the-fallen-2023-trophy-guide-roadmap/"
+        },
+        {
+          "source": "pst",
+          "label": "Lords of the Fallen",
+          "url": "https://www.playstationtrophies.org/game/lords-of-the-fallen-2/guide/"
+        }
+      ],
+      "dlc": [
+        {
+          "label": "Master of Fate",
+          "url": "https://psnprofiles.com/guide/24277-lords-of-the-fallen-master-of-fate-dlc-trophy-guide"
+        }
+      ]
+    },
+    "383150": {
+      "pp": false,
+      "pst": {
+        "label": "Dead Island",
+        "slug": "dead-island-ps4"
+      },
+      "noDlc": true
+    },
+    "383180": {
+      "pp": false,
+      "pst": {
+        "label": "Dead Island Riptide",
+        "slug": "dead-island-riptide-ps4"
+      },
+      "noDlc": true
+    },
+    "1593500": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "God of War",
+          "slug": "god-of-war-2018-trophy-guide-roadmap"
+        },
+        {
+          "source": "pst",
+          "label": "God of War",
+          "slug": "god-of-war-2018"
+        },
+        {
+          "source": "psnp",
+          "label": "God of War",
+          "slug": "7347-god-of-war-trophy-guide"
+        }
+      ]
+    },
+    "1712840": {
+      "pp": false,
+      "psnp": {
+        "label": "Tiny Tina's Assault on Dragon Keep",
+        "slug": "13247-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure-trophy-guide"
+      }
+    },
+    "268050": {
+      "pp": {
+        "label": "The Evil Within",
+        "slug": "guides/the_evil_within.html"
+      }
+    },
+    "921590": {
+      "pp": false,
+      "pst": {
+        "label": "Dissidia Final Fantasy NT",
+        "slug": "dissidia-final-fantasy-nt"
+      }
+    },
+    "340170": {
+      "pp": false,
+      "pst": {
+        "label": "Final Fantasy Type-0 HD",
+        "slug": "final-fantasy-type-0-hd"
+      }
+    },
+    "637650": {
+      "pp": {
+        "label": "Final Fantasy XV",
+        "slug": "final-fantasy-xv-trophy-guide-roadmap"
+      }
+    },
+    "271590": {
+      "pp": {
+        "label": "Grand Theft Auto V",
+        "slug": "grand-theft-auto-v-trophy-guide-roadmap"
+      }
+    },
+    "2000950": {
+      "pp": false,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "Call of Duty: Modern Warfare",
+          "slug": "call-of-duty-modern-warfare"
+        },
+        {
+          "source": "psnp",
+          "label": "Call of Duty: Modern Warfare",
+          "slug": "9269-call-of-duty-modern-warfare-trophy-guide"
+        }
+      ]
+    },
+    "3595230": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "call-of-duty-modern-warfare-2-2022-trophy-guide-roadmap"
+        },
+        {
+          "source": "pst",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "call-of-duty-modern-warfare-2-2022"
+        },
+        {
+          "source": "psnp",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "15414-call-of-duty-modern-warfare-ii-trophy-guide"
+        }
+      ]
+    },
+    "1938090": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "call-of-duty-modern-warfare-2-2022-trophy-guide-roadmap"
+        },
+        {
+          "source": "pst",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "call-of-duty-modern-warfare-2-2022"
+        },
+        {
+          "source": "psnp",
+          "label": "Call of Duty: Modern Warfare II",
+          "slug": "15414-call-of-duty-modern-warfare-ii-trophy-guide"
+        }
+      ]
+    },
+    "3595270": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "call-of-duty-modern-warfare-3-2023-trophy-guide-roadmap"
+        },
+        {
+          "source": "pst",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "call-of-duty-modern-warfare-3-2023"
+        },
+        {
+          "source": "psnp",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "19866-call-of-duty-modern-warfare-iii-trophy-guide"
+        }
+      ]
+    },
+    "2519060": {
+      "guides": [
+        {
+          "source": "pp",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "call-of-duty-modern-warfare-3-2023-trophy-guide-roadmap"
+        },
+        {
+          "source": "pst",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "call-of-duty-modern-warfare-3-2023"
+        },
+        {
+          "source": "psnp",
+          "label": "Call of Duty: Modern Warfare III",
+          "slug": "19866-call-of-duty-modern-warfare-iii-trophy-guide"
+        }
+      ]
+    },
+    "631510": {
+      "pp": false,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "Devil May Cry",
+          "slug": "devil-may-cry-ps3"
+        },
+        {
+          "source": "pst",
+          "label": "Devil May Cry 2",
+          "slug": "devil-may-cry-2-ps3"
+        },
+        {
+          "source": "pst",
+          "label": "Devil May Cry 3",
+          "slug": "devil-may-cry-3-ps3"
+        },
+        {
+          "source": "psnp",
+          "label": "Devil May Cry",
+          "slug": "devil-may-cry"
+        },
+        {
+          "source": "psnp",
+          "label": "Devil May Cry 2",
+          "slug": "devil-may-cry-2"
+        },
+        {
+          "source": "psnp",
+          "label": "Devil May Cry 3",
+          "slug": "devil-may-cry-3"
+        }
+      ]
+    },
+    "12100": {
+      "pp": false,
+      "pst": false,
+      "psnp": false
+    },
+    "12110": {
+      "pp": false,
+      "pst": false,
+      "psnp": false
+    },
+    "12120": {
+      "pp": false,
+      "pst": false,
+      "psnp": false
+    },
+    "1173820": {
+      "pp": false,
+      "pst": false,
+      "psnp": false
+    },
+    "382890": {
+      "pp": false,
+      "pst": false,
+      "psnp": false
+    },
+    "72850": {
+      "pp": false,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "The Elder Scrolls V: Skyrim",
+          "slug": "the-elder-scrolls-v-skyrim"
+        },
+        {
+          "source": "psnp",
+          "label": "The Elder Scrolls V: Skyrim",
+          "slug": "1277-the-elder-scrolls-v-skyrim-trophy-guide"
+        }
+      ]
+    },
+    "489830": {
+      "pp": false,
+      "guides": [
+        {
+          "source": "pst",
+          "label": "The Elder Scrolls V: Skyrim",
+          "slug": "skyrim-ps5"
+        },
+        {
+          "source": "psnp",
+          "label": "The Elder Scrolls V: Skyrim",
+          "slug": "5439-the-elder-scrolls-v-skyrim-trophy-guide"
+        }
+      ]
+    },
+    "243470": {
+      "pp": false,
+      "psnp": {
+        "label": "Watch Dogs",
+        "slug": "4200-watch-dogs-trophy-guide"
+      }
+    },
+    "447040": {
+      "pp": false,
+      "psnp": {
+        "label": "Watch Dogs 2",
+        "slug": "16947-watch-dogs-2-trophy-guide"
+      }
+    },
+    "2239550": {
+      "pp": false,
+      "psnp": {
+        "label": "Watch Dogs: Legion",
+        "slug": "11111-watch-dogs-legion-trophy-guide"
+      }
+    },
+    "1462040": {
+      "pp": false,
+      "psnp": {
+        "label": "Final Fantasy VII Remake",
+        "slug": "9997-final-fantasy-vii-remake-trophy-guide"
+      },
+      "dlc": [
+        {
+          "label": "INTERmission",
+          "psnp": "12403-final-fantasy-vii-remake-intermission-dlc-trophy-guide"
+        }
+      ]
+    },
+    "2161700": {
+      "dlc": [
+        {
+          "label": "Episode Aegis",
+          "pp": "persona-3-reload-episode-aegis-dlc-trophy-guide-roadmap/"
+        }
+      ]
+    },
+    "1850570": {
+      "pp": false,
+      "psnp": {
+        "label": "Death Stranding",
+        "slug": "9355-death-stranding-trophy-guide"
+      }
+    },
+    "1580780": {
+      "pp": false,
+      "psnp": {
+        "label": "Ninja Gaiden Sigma",
+        "slug": "13480-ninja-gaiden-%CF%83-trophy-guide"
+      }
+    },
+    "1580790": {
+      "pp": false,
+      "psnp": {
+        "label": "Ninja Gaiden Sigma 2",
+        "slug": "19141-ninja-gaiden-%CF%832-trophy-guide"
+      }
+    },
+    "1369760": {
+      "pp": false,
+      "psnp": {
+        "label": "Ninja Gaiden 3 Razor's Edge",
+        "slug": "13541-ninja-gaiden-3-razors-edge-trophy-guide"
+      }
+    },
+    "911400": {
+      "pp": false,
+      "psnp": [
+        {
+          "label": "Assassin's Creed III Remastered",
+          "slug": "8539-assassins-creed-iii-trophy-guide"
+        },
+        {
+          "label": "Assassin's Creed Liberation HD",
+          "slug": "12621-assassins-creed-liberation-trophy-guide"
+        }
+      ]
+    },
+    "254700": {
+      "pp": false,
+      "psnp": {
+        "label": "Resident Evil 4",
+        "slug": "4962-resident-evil-4-trophy-guide"
+      },
+      "noDlc": true
+    },
+    "1659420": {
+      "pp": false,
+      "psnp": {
+        "label": "Uncharted: Legacy of Thieves Collection",
+        "slug": "15663-uncharted-legacy-of-thieves-collection-trophy-guide"
+      }
+    }
+  }
+}
 
